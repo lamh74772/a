@@ -1,0 +1,90 @@
+drop_trinkets_on_death: true
+
+trinket_menu_size: 9
+trinket_title: '&8Accessories'
+
+filler_item:
+  type: 'NONE_GRAY_STAINED_GLASS_PANE'
+  data: -1
+  display_name: '&8'
+  lore: []
+
+trinket_slots:
+  1:
+    valid_trinkets:
+    - 7
+    placeholder:
+      type: 'ROTTEN_FLESH'
+      data: 5829317
+      display_name: '&8[Accessory]'
+      lore: []
+  2:
+    valid_trinkets:
+    - 7
+    placeholder:
+      type: 'ROTTEN_FLESH'
+      data: 5829317
+      display_name: '&8[Accessory]'
+      lore: []
+  3:
+    valid_trinkets:
+    - 7
+    placeholder:
+      type: 'ROTTEN_FLESH'
+      data: 5829317
+      display_name: '&8[Accessory]'
+      lore: []
+  4:
+    valid_trinkets:
+    - 7
+    placeholder:
+      type: 'ROTTEN_FLESH'
+      data: 5829317
+      display_name: '&8[Accessory]'
+      lore: []
+  5:
+    valid_trinkets:
+    - 7
+    placeholder:
+      type: 'ROTTEN_FLESH'
+      data: 5829317
+      display_name: '&8[Accessory]'
+      lore: []
+  6:
+    valid_trinkets:
+    - 7
+    permission: 'trinkets.1'
+    placeholder:
+      type: 'ROTTEN_FLESH'
+      data: 5829317
+      display_name: '&8[Accessory]'
+      lore: []
+    locked:
+      type: 'ROTTEN_FLESH'
+      data: 5829320
+      display_name: '&c[Locked]'
+      lore: []
+  7:
+    valid_trinkets:
+    - 7
+    permission: 'trinkets.2'
+    placeholder:
+      type: 'ROTTEN_FLESH'
+      data: 5829317
+      display_name: '&8[Accessory]'
+      lore: []
+    locked:
+      type: 'ROTTEN_FLESH'
+      data: 5829320
+      display_name: '&c[Locked]'
+      lore: []
+
+trinket_types:
+  0: '<lang.trinket-tag-ring>'
+  1: '<lang.trinket-tag-necklace>'
+  2: '<lang.trinket-tag-armband>'
+  3: '<lang.trinket-tag-belt>'
+  4: '<lang.trinket-tag-mask>'
+  5: '<lang.trinket-tag-pin>'
+  6: '<lang.trinket-tag-circlet>'
+  7: '<lang.trinket-tag-accessory>'

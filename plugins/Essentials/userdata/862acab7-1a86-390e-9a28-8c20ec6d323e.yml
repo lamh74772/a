@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720932266707
+  login: 1720932173887
+money: '0'
+last-account-name: KingUsagin
+logoutlocation:
+  world: f9fd9387-0409-49e8-afdb-8de5911a2bb3
+  world-name: world
+  x: -1169.6684482073958
+  y: 27.0
+  z: -1601.458164132241
+  yaw: 61.50002670288086
+  pitch: 24.450021743774414

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720932266703
+  login: 1720931273552
+money: '0'
+last-account-name: NDT
+logoutlocation:
+  world: f9fd9387-0409-49e8-afdb-8de5911a2bb3
+  world-name: world
+  x: -1536.688393252605
+  y: 64.0
+  z: 480.6624515016982
+  yaw: 90.04510498046875
+  pitch: 39.970760345458984

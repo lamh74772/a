@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720932192814
+  login: 1720931268693
+money: '0'
+last-account-name: Hannabi123
+logoutlocation:
+  world: 6201a544-0e8f-497b-8815-8ed7b1bd5d34
+  world-name: world_nether
+  x: -215.32749388931927
+  y: 130.78786900439593
+  z: -609.3126624174681
+  yaw: -39.78887939453125
+  pitch: 45.91286849975586

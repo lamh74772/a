@@ -1,0 +1,119 @@
+Warps:
+  zoo:
+    name: zoo
+    owner: 7939a7f6-6a80-3008-9165-63edb4b489cb
+    ownername: lamtranhuyhoang
+    count: true
+    loc:
+      x: -1164.9276919049641
+      y: 63.0
+      z: -1616.9355254455581
+      pitch: 18.6198
+      yaw: -172.08508
+      world: world
+    visitors: 213
+  blossom:
+    name: Blossom
+    owner: 558262f6-8103-320b-aae4-8e00f6a5d2ab
+    ownername: SicilyClaudeYT
+    count: true
+    loc:
+      x: -1182.7510062068015
+      y: 88.0
+      z: 691.233536927408
+      pitch: 25.570772
+      yaw: -91.15509
+      world: world
+    visitors: 66
+    lock: false
+  atlantis:
+    name: atlantis
+    owner: ba2d1d0b-9980-394e-96ba-c45e01f1567c
+    ownername: NDT
+    count: true
+    loc:
+      x: -1473.7071226844093
+      y: 57.0
+      z: 483.63845999661794
+      pitch: 24.220743
+      yaw: -136.75473
+      world: world
+    visitors: 51
+  farmender:
+    name: farmender
+    owner: 7939a7f6-6a80-3008-9165-63edb4b489cb
+    ownername: lamtranhuyhoang
+    count: true
+    loc:
+      x: 327.3580993197304
+      y: 57.0
+      z: -7.195364824512205
+      pitch: 20.249914
+      yaw: -86.7423
+      world: world_the_end
+    visitors: 64
+  vix:
+    name: vix
+    owner: 1a180dc4-f0e7-32ce-a443-5d1addf66a9e
+    ownername: Hannabi123
+    count: true
+    loc:
+      x: -530.0249702178618
+      y: 63.0
+      z: -1513.3729373756632
+      pitch: 7.518739
+      yaw: -3.4276123
+      world: world
+    visitors: 19
+  ionia:
+    name: Ionia
+    owner: f4b7cd6f-9bf2-3a5c-9544-45a2359c5f8a
+    ownername: nazell
+    count: true
+    loc:
+      x: -595.0821262932428
+      y: 103.5
+      z: 59.80000001192093
+      pitch: 28.19996
+      yaw: -177.60175
+      world: world
+    visitors: 23
+  duong10ngonfg:
+    name: duong10ngonfg
+    owner: 79f5c9ae-f50f-3adb-8d98-f8505f18db29
+    ownername: duong10ngonfg
+    count: true
+    loc:
+      x: -1149.3057059602063
+      y: 69.0
+      z: 557.6999999880791
+      pitch: 8.850185
+      yaw: 42.749207
+      world: world
+    visitors: 1
+  boss:
+    name: Boss
+    owner: 862acab7-1a86-390e-9a28-8c20ec6d323e
+    ownername: KingUsagin
+    count: true
+    loc:
+      x: -213.43713647375537
+      y: 129.0
+      z: -621.5500673568531
+      pitch: 18.900028
+      yaw: 88.39614
+      world: world_nether
+    visitors: 26
+  food:
+    name: food
+    owner: eede7f86-5572-3038-a228-8a75a1b52e69
+    ownername: Easter
+    count: true
+    loc:
+      x: -53.02177150341375
+      y: 240.0
+      z: -212.36339869609296
+      pitch: 73.19315
+      yaw: -179.85437
+      world: world_nether
+    visitors: 8

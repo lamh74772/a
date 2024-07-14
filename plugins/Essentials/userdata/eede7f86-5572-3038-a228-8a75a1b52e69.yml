@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720932266697
+  login: 1720931407527
+money: '0'
+last-account-name: Easter
+logoutlocation:
+  world: f9fd9387-0409-49e8-afdb-8de5911a2bb3
+  world-name: world
+  x: -1166.8123221072397
+  y: 27.0
+  z: -1601.0778986772596
+  yaw: 49.17436599731445
+  pitch: 38.249916076660156
